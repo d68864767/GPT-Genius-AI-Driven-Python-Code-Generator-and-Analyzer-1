@@ -1,0 +1,13 @@
+# The OpenAI Python library is required for GPT integration
+openai==0.27.0
+# The following libraries are commonly used in Python projects and may be needed for future enhancements
+numpy==1.21.2
+pandas==1.3.3
+# For testing purposes
+pytest==6.2.5
+# For creating CLI
+click==8.0.1
+# For handling HTTP requests
+requests==2.26.0
+# For handling JSON data
+jsonschema==3.2.0
